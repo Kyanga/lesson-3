@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>Activity 3</title>
+    </head>
+    <body>
+        <h2>Tablein HTML</h2>
+        <Table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Grade</th>
+            <th>Country</th>
+        </tr>
+        <tr>
+            <td>Kyanga</td>
+            <td>9
+            </td>
+            <td>Mozambique</td>
+        </tr>
+        <tr>
+            <td>Abdurrahman</td>
+            <td>9
+            </td>
+            <td>Pakstan</td>
+        </tr>
+        <tr>
+            <td>Adyebo</td>
+            <td>9
+            </td>
+            <td>Uganda</td>
+        </tr>
+        </Table>
+    </body>
+</html>
