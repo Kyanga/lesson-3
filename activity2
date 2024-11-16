@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>Activity 2</title>
+    </head>
+    <body>
+        <h2>Lists in HTML</h2>
+        <h3>Order List</h3>
+        <ol>
+            <li>Tea</li>
+            <li>Coffee</li>
+            <li>Milk</li>
+        </ol>
+        <h3>Unordered List</h3>
+        <ul>
+            <li>Tea</li>
+            <li>Coffee</li>
+            <li>Milk</li>
+        </ul>
+        <h3>Description List</h3>
+        <dl>
+            <dt>Tea</dt>
+            <dd>It is hot</dd>
+            <dt>Ice cream</dt>
+            <dd>It is cold</dd>
+    </body>
+</html>
